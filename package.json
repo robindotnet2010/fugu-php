@@ -1,0 +1,14 @@
+{
+  "private": true,
+  "scripts": {
+    "prod": "gulp --production",
+    "dev": "gulp watch"
+  },
+  "devDependencies": {
+    "laravel-elixir": "^5.0.0"
+  },
+  "dependencies": {
+    "elixir-react-jsx": "^3.0.0",
+    "gulp": "^3.9.1"
+  }
+}
